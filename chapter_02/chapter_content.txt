@@ -1,12 +1,19 @@
-Contenu du second chapitre
+### Contenu du second chapitre
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+Lorem ipsum dolor sit amet, **consectetur adipiscing elit**.
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-Fin du contenu
+Lorem ipsum dolor sit amet, **consectetur adipiscing elit**.
+
+Lorem ipsum dolor sit amet, **consectetur adipiscing elit**.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+Lorem ipsum dolor sit amet, **consectetur adipiscing elit**.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+*Fin du contenu du second chapitre*
